@@ -38,3 +38,15 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 >       'cluster' => env('REDIS_CLUSTER', 'redis'),
 >       'prefix' => env('REDIS_PREFIX', ''),
 >   ],
+
+- Add laravel echo server package with npm
+
+> $ npm install -g laravel-echo-server
+
+- create laravel echo server config.
+
+> $ laravel-echo-server init
+
+
+
+
