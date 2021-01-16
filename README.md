@@ -55,12 +55,12 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 > $ npm install socket.io-client
 >
-    > import Echo from 'laravel-echo';
-    >
-    > window.Echo = new Echo({
-    > broadcaster: 'socket.io',
-    > host: window.location.hostname + ":" + window.laravel_echo_port
-    > });
+    >> import Echo from 'laravel-echo';
+    >>
+    >> window.Echo = new Echo({
+    >> broadcaster: 'socket.io',
+    >> host: window.location.hostname + ":" + window.laravel_echo_port
+    >> });
 
 - add laravel-echo-setup.js to mix (webpack)
   
