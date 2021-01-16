@@ -51,6 +51,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 > $ npm install && npm install laravel-echo
 
+- 
+
 
 
 
